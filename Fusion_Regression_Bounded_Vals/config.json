@@ -1,0 +1,1 @@
+{"seed": 8, "name": "Fusion_Regression_Bounded_Vals", "run_val": 1, "model": {"input_shape": 61, "output_shape": 1}, "optimizer": {"lr": 0.0007}, "num_epochs": 20, "dataloader": {"train": {"batch_size": 64}, "val": {"batch_size": 64}, "test": {"batch_size": 64}}, "output": {"dir": "./"}}
